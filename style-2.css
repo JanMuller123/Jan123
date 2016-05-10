@@ -1,0 +1,16 @@
+body {background-color:saddlebrown;
+  font-family: "Open Sans", sans-serif;
+ }
+
+.blok { 
+  width: 200px;
+  margin: 600px
+  
+}
+
+.container{
+ width: 400px;
+ margin-left: auto;
+  margin-right: auto;
+  font-family: fantasy;
+}
